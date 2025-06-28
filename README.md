@@ -23,17 +23,17 @@
 
 ## 🛠️ Tech Stack
 
-| Tech                | Logo                                                                 | Description                                             |
-|---------------------|----------------------------------------------------------------------|---------------------------------------------------------|
-| **Next.js 14**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28"/> | Full-stack React framework with App Router support     |
-| **Clerk Auth**      | <img src="https://www.svgrepo.com/show/473584/clerk.svg" width="28"/> | Seamless auth and session management                   |
-| **Tailwind CSS**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="28"/> | Utility-first modern CSS framework                     |
-| **Shadcn UI**       | <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="28"/> | Beautiful, accessible components built with Radix UI   |
-| **Drizzle ORM**     | <img src="https://avatars.githubusercontent.com/u/110732033?s=200&v=4" width="28"/> | Type-safe SQL ORM for modern TypeScript apps           |
-| **PostgreSQL**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/> | Advanced open-source relational database               |
-| **Lucide Icons**    | <img src="https://lucide.dev/logo/logo.svg" width="28"/> | Customizable and elegant icon set                      |
-| **Sonner**          | <img src="https://emilkowal.ski/sonner/logo.png" width="28"/>       | Delightful toast notifications                         |
-| **Vercel (Hosting)**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28"/> | Deployment platform for Next.js                        |
+| Technology | Description |
+|------------|-------------|
+| ![Next.js](https://img.shields.io/badge/-Next.js%2015-000000?logo=next.js&logoColor=white&style=flat) | React framework for server-side rendering and fullstack development |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) | Utility-first CSS framework for rapid UI development |
+| ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?logo=radix-ui&logoColor=white&style=flat) | Beautifully designed UI components built with Radix and Tailwind |
+| ![Clerk](https://img.shields.io/badge/-Clerk%20Auth-F44A3F?logo=clerk&logoColor=white&style=flat) | Authentication and user management for modern apps |
+| ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-FFD700?logo=postgresql&logoColor=black&style=flat) | Type-safe SQL ORM for TypeScript |
+| ![Neon](https://img.shields.io/badge/-Neon%20(PostgreSQL)-008BB9?logo=postgresql&logoColor=white&style=flat) | Serverless PostgreSQL with branching and autoscaling |
+| ![Lucide Icons](https://img.shields.io/badge/-Lucide%20Icons-333333?logo=lucide&logoColor=white&style=flat) | Beautiful, open-source icons for React |
+| ![Sonner](https://img.shields.io/badge/-Sonner%20Toasts-8B5CF6?style=flat&logo=react) | Elegant toast notifications for React apps |
+| ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat) | Deployment and hosting platform for frontend frameworks |
 
 ---
 

@@ -25,14 +25,15 @@
 
 | Tech                | Logo                                                                 | Description                                             |
 |---------------------|----------------------------------------------------------------------|---------------------------------------------------------|
-| **Next.js 14**      | <img src="https://raw.githubusercontent.com/vercel/next.js/canary/examples/blog-starter/public/favicon/android-chrome-192x192.png" width="28"/> | Full-stack React framework with App Router support     |
-| **Clerk Auth**      | <img src="https://avatars.githubusercontent.com/u/76118206?s=200&v=4" width="28"/> | Seamless auth and session management                   |
-| **Tailwind CSS**    | <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="28"/> | Utility-first modern CSS framework                     |
-| **Drizzle ORM**     | <img src="https://raw.githubusercontent.com/drizzle-team/branding/main/drizzle.svg" width="28"/> | Type-safe SQL ORM for modern TypeScript apps           |
+| **Next.js 14**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28"/> | Full-stack React framework with App Router support     |
+| **Clerk Auth**      | <img src="https://www.svgrepo.com/show/473584/clerk.svg" width="28"/> | Seamless auth and session management                   |
+| **Tailwind CSS**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="28"/> | Utility-first modern CSS framework                     |
+| **Shadcn UI**       | <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="28"/> | Beautiful, accessible components built with Radix UI   |
+| **Drizzle ORM**     | <img src="https://avatars.githubusercontent.com/u/110732033?s=200&v=4" width="28"/> | Type-safe SQL ORM for modern TypeScript apps           |
 | **PostgreSQL**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/> | Advanced open-source relational database               |
-| **Lucide Icons**    | <img src="https://lucide.dev/logo.svg" width="28"/> | Customizable and elegant icon set                      |
-| **Sonner**          | <img src="https://sonner.emilkowal.ski/favicon.ico" width="24"/>       | Delightful toast notifications                         |
-| **Vercel (Hosting)**| <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/favicon.ico" width="28"/> | Deployment platform for Next.js                        |
+| **Lucide Icons**    | <img src="https://lucide.dev/logo/logo.svg" width="28"/> | Customizable and elegant icon set                      |
+| **Sonner**          | <img src="https://emilkowal.ski/sonner/logo.png" width="28"/>       | Delightful toast notifications                         |
+| **Vercel (Hosting)**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28"/> | Deployment platform for Next.js                        |
 
 ---
 
